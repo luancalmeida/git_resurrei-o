@@ -2,3 +2,5 @@ bruno, silva
 fabi
 luan
 fabiana
+maria 
+jose
